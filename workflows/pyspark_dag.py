@@ -38,7 +38,7 @@ PYSPARK_JOB_3 = {
 
 
 ARGS = {
-    "owner": "SHAIK SAIDHUL",
+    "owner": "Ashvini sawarkar",
     "start_date": None,
     "depends_on_past": False,
     "email_on_failure": False,
